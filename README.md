@@ -76,7 +76,7 @@ main.bicep --parameters ./environments/test-multiple-storage.bicepparam
 
 For apply the changes:  
 ```bicep
-az deployment group what-if --resource-group rg-demo --template-file ./environments/multiple-storage-
+az deployment group create --resource-group rg-demo --template-file ./environments/multiple-storage-
 main.bicep --parameters ./environments/test-multiple-storage.bicepparam
 ```
 
