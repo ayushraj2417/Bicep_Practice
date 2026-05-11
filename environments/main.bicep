@@ -10,3 +10,4 @@ params: {
   storage_account_size: storage_size
   }
 }
+
