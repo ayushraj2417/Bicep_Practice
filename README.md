@@ -85,3 +85,8 @@ main.bicep --parameters ./environments/test-multiple-storage.bicepparam
 ### Task 4: I have created the storage account using array of object and used for loop.
 
 ---
+
+
+### Task 5: I have created the function app and for that I have created the storage  account, app service plan and then created the function app
+
+---
