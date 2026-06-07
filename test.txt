@@ -1,0 +1,2 @@
+This the test file for merge conflict.
+No text.
